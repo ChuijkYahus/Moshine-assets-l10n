@@ -1,9 +1,17 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.3.20
+Date: 2025-
+  Bugfixes:
+    - Fixed planet orientation in starmap
+  Graphics:
+    - Changed raw data fluid color
+  Locale:
+    - German locale update by Schlumpf
+---------------------------------------------------------------------------------------------------
 Version: 0.3.19
 Date: 2025-09-28
   Changes:
     - Added 2 technologies to unlock the recipes that were previously unlocked by planet discovery
-  Changes:
     - Removed map settings for cliffs, hills and fulgoran data probes
 ---------------------------------------------------------------------------------------------------
 Version: 0.3.18
